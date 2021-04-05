@@ -1,2 +1,2 @@
-# CS_Portfolio
-Portfolio Projects
+# CS_Portfolio Projects
+Portfolio Projects for public
